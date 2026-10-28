@@ -1,0 +1,8 @@
+# このリポジトリに置くのは README.md と PRIVACY.md と LICENSE.txt だけ(ソースコードは公開しない)。
+# 先にすべてを除外してから、置いてよいファイルだけを許可する。
+# 追加のファイルを置きたいときは、ここに !/ファイル名 の行を足す。
+/*
+!/README.md
+!/.gitignore
+!/PRIVACY.md
+!/LICENSE.txt
